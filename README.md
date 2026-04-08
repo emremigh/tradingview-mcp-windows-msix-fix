@@ -1,0 +1,1 @@
+# tradingview-mcp-windows-msix-fix
