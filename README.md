@@ -21,7 +21,6 @@ A PowerShell script that launches the MSIX application in debug mode using Micro
 
 3. Place the downloaded launch_msix_debug.ps1 file in the original script folder and open and run the file path:
    ```powershell
-   cd tradingview-mcp
    .\launch_msix_debug.ps1
    ```
 
