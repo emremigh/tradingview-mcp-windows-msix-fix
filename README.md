@@ -12,7 +12,7 @@ A PowerShell script that launches the MSIX application in debug mode using Micro
 
 ### How to Use
 
-1. Install **TradingView Desktop** from the Microsoft Store.
+1. Install **TradingView Desktop** from the Microsoft Store and [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
 
 2. Clone this repository:
    ```powershell
