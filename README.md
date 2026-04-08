@@ -17,12 +17,12 @@ A PowerShell script that launches the MSIX application in debug mode using Micro
 2. Clone this repository:
    ```powershell
    git clone https://github.com/emremigh/tradingview-mcp-windows-msix-fix.git
-   cd tradingview-mcp-windows-msix-fix
    ```
 
-3. Launch TradingView Desktop with debug port enabled:
+3. Place the downloaded launch_msix_debug.ps1 file in the original script folder and open and run the file path:
    ```powershell
-   powershell -ExecutionPolicy Bypass -File .\scripts\launch_msix_debug.ps1
+   cd tradingview-mcp
+   .\launch_msix_debug.ps1
    ```
 
 4. Verify the debug port:
