@@ -19,7 +19,7 @@ A PowerShell script that launches the MSIX application in debug mode using Micro
    git clone https://github.com/emremigh/tradingview-mcp-windows-msix-fix.git
    ```
 
-3. Place the downloaded launch_msix_debug.ps1 file in the original script folder and open and run the file path:
+3. Place the downloaded launch_msix_debug.ps1 file in the original script folder and open and run the file path(powershell):
    ```powershell
    .\launch_msix_debug.ps1
    ```
